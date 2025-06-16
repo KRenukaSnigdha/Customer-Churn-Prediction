@@ -40,9 +40,8 @@ It contains customer details such as demographics, account information, and serv
 
 ## Save your Python script as churn_prediction.py and run it.
 
-   ```bash
    python churn_prediction.py
-  ```bash
+ 
 
 ## License
 This project is open-source and available under the MIT License.
