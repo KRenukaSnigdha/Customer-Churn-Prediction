@@ -42,6 +42,7 @@ It contains customer details such as demographics, account information, and serv
 
    ```bash
    python churn_prediction.py
+  ```bash
 
 ## License
 This project is open-source and available under the MIT License.
